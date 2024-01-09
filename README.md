@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KJES4
-- 👀 I’m interested in technology and psychology.
-- 🌱 I’m currently learning Solidity.
-- 💞️ I’m looking to collaborate on something but maybe nothing.
-- 📫 How to reach me, you probably can't.
+- 👀 I’m interested in emerging technology.
+- 🌱 I’m currently learning Docker.
+- 💞️ I’m looking to collaborate on open-source projects.
 
 <!---
 KJES4/KJES4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
