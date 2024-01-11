@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KJES4
+- 👋 Hi, I’m Kat
 - 👀 I’m interested in emerging technology.
 - 🌱 I’m currently learning Docker.
 - 💞️ I’m looking to collaborate on open-source projects.
