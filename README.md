@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kat
-- 👀 I’m interested in emerging technology.
+- 👀 I’m interested in various things.
 - 🌎 I’m currently on a mote of dust suspended in a sunbeam.
 
 <!---
